@@ -85,7 +85,6 @@ class Tabs extends Component {
 export default Tabs
 
 const TabsWrapper = styled.div`
-  border: 1px solid #ddd;
   border-radius: 2px;
   height: auto;
   margin: 0;

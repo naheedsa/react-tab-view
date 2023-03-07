@@ -27,7 +27,6 @@ export default Tab
 const TabWrapper = styled.div`
   background: rgb(250, 250, 250);
   margin: 1em auto;
-  border: 1px solid #ddd;
   padding: 1em;
 
   .hidden {
